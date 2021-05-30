@@ -1,0 +1,9 @@
+Package: com.donato.nra
+Name: NoRedditAvatars
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide the stupid avatars in the comments section of the Reddit app
+Maintainer: Donato Fiore
+Author: Donato Fiore
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
